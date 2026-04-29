@@ -1,5 +1,5 @@
 ---
-website: "CM de Câmara de Lobos"          # Entre as aspas escreve o nome do website
+website: "Câmara Municipal de Câmara de Lobos"          # Entre as aspas escreve o nome do website
 date: "31/12/1999"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://cm-camaradelobos.pt/"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://cm-camaradelobos.pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
